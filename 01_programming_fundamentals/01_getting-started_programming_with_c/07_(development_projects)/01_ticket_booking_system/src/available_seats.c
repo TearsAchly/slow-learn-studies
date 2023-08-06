@@ -6,7 +6,7 @@ int total_seat =
     sizeof(arrays_available_seats) / sizeof(arrays_available_seats[0]);
 
 void available_seats() {
-  printf("Available Seats = ");
+  printf("\nAvailable Seats = ");
   for (int index_seats = 1; index_seats <= total_seat; index_seats++) {
     printf("[%d] ", index_seats);
   }

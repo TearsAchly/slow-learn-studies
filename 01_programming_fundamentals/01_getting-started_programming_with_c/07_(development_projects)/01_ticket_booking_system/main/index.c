@@ -5,7 +5,7 @@
 int main() {
 
   int chose;
-  printf("menu\n0.check available seats.\n1.pesan tiket.");
+  printf("menu\n0.check available seats.\n1.order tickets.\n\n");
   scanf("%d", &chose);
 
   switch (chose) {
@@ -14,6 +14,7 @@ int main() {
     break;
   case 1:
     create_ticket();
+    result_ticket();
     break;
   default:
     printf("invalid input");
