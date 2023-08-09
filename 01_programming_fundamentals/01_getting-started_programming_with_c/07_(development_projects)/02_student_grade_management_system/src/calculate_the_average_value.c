@@ -4,7 +4,6 @@
  *              and total values of student grades.
  */
 
-#include "../include/calculate_the_average_value.h"
 #include "../include/all_student_grades.h"
 #include <stdio.h>
 
@@ -26,6 +25,7 @@ int total_values() {
 }
 
 void calculate_the_average_value() {
-  mean = total_values() / all_score; // Calculate mean using total values
-  printf("Average Value: %d\n", mean); // Display the average value
+    mean = total_values() / all_score; // Calculate mean using total values
+    printf("Average Value: %.2f\n", (float)mean); // Display average with two decimal points
 }
+

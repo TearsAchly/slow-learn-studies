@@ -10,13 +10,12 @@
 extern int student_grades[];
 extern int all_score;
 
-int max = 0; // Initialize max score
-
 void highest_score() {
-  for (int i = 0; i < all_score; i++) {
-    if (student_grades[i] > max) {
-      max = student_grades[i]; // Update max if current grade is higher
+    int max = student_grades[0]; // Initialize max with the first score
+    for (int i = 1; i < all_score; i++) { // Start from 1 to compare with max
+        if (student_grades[i] > max) {
+            max = student_grades[i]; // Update max if current grade is higher
+        }
     }
-  }
-  printf("Highest Score: %d\n", max); // Display the highest score
+    printf("Highest Score: %d\n", max); // Clearly label the output
 }
