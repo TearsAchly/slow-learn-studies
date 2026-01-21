@@ -3,7 +3,7 @@
 Personal learning notes & records.
 
 This repository powers the website:
-👉 https://tearsachly.is-a.dev/slow-learn-studies/
+<br>https://tearsachly.is-a.dev/slow-learn-studies/
 
 ## What is this?
 A personal knowledge base.
