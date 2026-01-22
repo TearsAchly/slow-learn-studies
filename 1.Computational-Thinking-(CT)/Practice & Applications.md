@@ -1,3 +1,10 @@
+---
+title: Practice & Applications
+parent: Computational Thinking
+nav_order: 5
+---
+
+
 ## Practice & Applications
 
 * **Problem Solving**
