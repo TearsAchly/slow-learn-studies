@@ -1,6 +1,5 @@
 ---
-title: Programming Fundamentals
-parent: Programming Basics
+title: Programming Basics
 has_children: true
 nav_order: 1
 ---
