@@ -26,5 +26,3 @@ I’m learning how to think, break down complexity, and find the logic in the ch
 After learning how to think, this section focuses on turning those thoughts into instructions a computer can follow.  
 It covers both the mindset of being a programmer and the fundamental concepts behind writing code.
 
----
-
