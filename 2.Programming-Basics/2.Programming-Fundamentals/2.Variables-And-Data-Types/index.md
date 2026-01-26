@@ -5,6 +5,7 @@ has_children: true
 nav_order: 2
 ---
 
+
 ## Variables and Data Types
 
 **Variables** and **data types** are fundamental concepts in programming.
