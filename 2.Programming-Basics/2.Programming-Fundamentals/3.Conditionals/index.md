@@ -1,5 +1,6 @@
 ---
-title: Conditional
-parent: Control Flow
-nav_order: 2
+title: Control Flow
+parent: Programming Fundamentals
+has_children: true
+nav_order: 3
 ---
