@@ -5,10 +5,9 @@ has_children: true
 nav_order: 2
 ---
 
-## What Is Programming?
+# What Is Programming?
 
-Programming is the process of creating programs by writing a set of instructions that tell a computer what to do.
-
+Programming is the process of creating programs by writing a set of instructions that tell a computer what to do.<br>
 In everyday life, many things we use are powered by programs.
 For example, when buying something through an application—searching for items, checking out, and tracking deliveries—every step in that process is driven by lines of code.
 
