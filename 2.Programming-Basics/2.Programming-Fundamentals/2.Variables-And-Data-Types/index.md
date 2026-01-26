@@ -2,7 +2,7 @@
 title: Variables and Data Types
 parent: Programming Fundamentals
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 ## Variables and Data Types
