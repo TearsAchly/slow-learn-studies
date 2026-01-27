@@ -1,5 +1,5 @@
-title: Notes & Records
-description: Personal notes & records
+title: Notes
+description: Personal notes
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
@@ -7,3 +7,10 @@ enable_darkmode: true
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+
+footer_content: >
+  Built slowly, with curiosity and love. © 2026 
+  <a href="https://tearsachly.is-a.dev/" target="_blank" rel="noopener">
+     Achly
+  </a>.
