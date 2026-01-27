@@ -21,8 +21,14 @@ I’m learning how to think, break down complexity, and find the logic in the ch
 
 ---
 
-### [**Next Step: Programming Basics**](https://tearsachly.is-a.dev/slow-learn-studies/2.Programming-Basics/)
+### [**Second Step: Programming Basics**](https://tearsachly.is-a.dev/slow-learn-studies/2.Programming-Basics/)
 
-After learning how to think, this section focuses on turning those thoughts into instructions a computer can follow.  
+After learning how to think, this section focuses on turning those thoughts into instructions a computer can follow.     
 It covers both the mindset of being a programmer and the fundamental concepts behind writing code.
 
+
+### [**Third Step: Mindfulness**](https://tearsachly.is-a.dev/slow-learn-studies/3.Mindfulness/)
+
+A step back to move forward.  
+This section focuses on attention, awareness, and decision-making—skills that support clearer thinking and deeper learning.  
+By learning when to slow down, observe, and reflect, I aim to think more deliberately, stay focused, and make better choices along the learning journey.
